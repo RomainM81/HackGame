@@ -1,0 +1,6876 @@
+fileFormatVersion: 2
+guid: be7ae7df618d7f748bedfce5670ba2a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1512946242647411813
+    second: par3_tileable_640x360px_0
+  - first:
+      213: 4440397922288145295
+    second: par3_tileable_640x360px_1
+  - first:
+      213: -8843384367620985412
+    second: par3_tileable_640x360px_2
+  - first:
+      213: 4846243898155770548
+    second: par3_tileable_640x360px_3
+  - first:
+      213: -6606164078109401887
+    second: par3_tileable_640x360px_4
+  - first:
+      213: 3691927740411407142
+    second: par3_tileable_640x360px_5
+  - first:
+      213: -6642143841514472787
+    second: par3_tileable_640x360px_6
+  - first:
+      213: 3548197130021626578
+    second: par3_tileable_640x360px_7
+  - first:
+      213: 2606915001783923031
+    second: par3_tileable_640x360px_8
+  - first:
+      213: -502982286399675023
+    second: par3_tileable_640x360px_9
+  - first:
+      213: -59680679020510125
+    second: par3_tileable_640x360px_10
+  - first:
+      213: -2002846907158301737
+    second: par3_tileable_640x360px_11
+  - first:
+      213: 691368098152941639
+    second: par3_tileable_640x360px_12
+  - first:
+      213: -2784443911814961973
+    second: par3_tileable_640x360px_13
+  - first:
+      213: 894554010698999846
+    second: par3_tileable_640x360px_14
+  - first:
+      213: -534959417051802004
+    second: par3_tileable_640x360px_15
+  - first:
+      213: 7071315036458785381
+    second: par3_tileable_640x360px_16
+  - first:
+      213: -2239488336603649235
+    second: par3_tileable_640x360px_17
+  - first:
+      213: -766974965903324712
+    second: par3_tileable_640x360px_18
+  - first:
+      213: 2516846853998918197
+    second: par3_tileable_640x360px_19
+  - first:
+      213: -560913412196138562
+    second: par3_tileable_640x360px_20
+  - first:
+      213: -465533238552539091
+    second: par3_tileable_640x360px_21
+  - first:
+      213: -5130472457327727783
+    second: par3_tileable_640x360px_22
+  - first:
+      213: -1506948305971291275
+    second: par3_tileable_640x360px_23
+  - first:
+      213: -8232977756532591411
+    second: par3_tileable_640x360px_24
+  - first:
+      213: 3421572699578911014
+    second: par3_tileable_640x360px_25
+  - first:
+      213: 7254774971805354233
+    second: par3_tileable_640x360px_26
+  - first:
+      213: 4893510889073244263
+    second: par3_tileable_640x360px_27
+  - first:
+      213: 8141407274093884148
+    second: par3_tileable_640x360px_28
+  - first:
+      213: -7691640410519530057
+    second: par3_tileable_640x360px_29
+  - first:
+      213: -722527616060666691
+    second: par3_tileable_640x360px_30
+  - first:
+      213: -7157718339343285974
+    second: par3_tileable_640x360px_31
+  - first:
+      213: -4008684141500404902
+    second: par3_tileable_640x360px_32
+  - first:
+      213: 4655311187953841174
+    second: par3_tileable_640x360px_33
+  - first:
+      213: 4096020331099355043
+    second: par3_tileable_640x360px_34
+  - first:
+      213: -6671352493778860707
+    second: par3_tileable_640x360px_35
+  - first:
+      213: 3597111277354548448
+    second: par3_tileable_640x360px_36
+  - first:
+      213: -6371593051767197133
+    second: par3_tileable_640x360px_37
+  - first:
+      213: 2430698664686838806
+    second: par3_tileable_640x360px_38
+  - first:
+      213: 99413462953468889
+    second: par3_tileable_640x360px_39
+  - first:
+      213: -7190440873790793095
+    second: par3_tileable_640x360px_40
+  - first:
+      213: -1216742242161198425
+    second: par3_tileable_640x360px_41
+  - first:
+      213: -2115274338150824234
+    second: par3_tileable_640x360px_42
+  - first:
+      213: -8825227670182131335
+    second: par3_tileable_640x360px_43
+  - first:
+      213: 7399135739773960537
+    second: par3_tileable_640x360px_44
+  - first:
+      213: 1082290799412271310
+    second: par3_tileable_640x360px_45
+  - first:
+      213: 3524651610157519304
+    second: par3_tileable_640x360px_46
+  - first:
+      213: 121283863326912677
+    second: par3_tileable_640x360px_47
+  - first:
+      213: 7844064841193906192
+    second: par3_tileable_640x360px_48
+  - first:
+      213: 7766875465841867049
+    second: par3_tileable_640x360px_49
+  - first:
+      213: 54940308387815555
+    second: par3_tileable_640x360px_50
+  - first:
+      213: -819138064648223485
+    second: par3_tileable_640x360px_51
+  - first:
+      213: 8409819953418714645
+    second: par3_tileable_640x360px_52
+  - first:
+      213: 7990267782424515694
+    second: par3_tileable_640x360px_53
+  - first:
+      213: 2501519252087436636
+    second: par3_tileable_640x360px_54
+  - first:
+      213: -8192462247485183308
+    second: par3_tileable_640x360px_55
+  - first:
+      213: 1533461812254705198
+    second: par3_tileable_640x360px_56
+  - first:
+      213: 8338575236961444371
+    second: par3_tileable_640x360px_57
+  - first:
+      213: 6334257485975759287
+    second: par3_tileable_640x360px_58
+  - first:
+      213: -6329482277478147862
+    second: par3_tileable_640x360px_59
+  - first:
+      213: -2603779173584768355
+    second: par3_tileable_640x360px_60
+  - first:
+      213: -6172779160063190970
+    second: par3_tileable_640x360px_61
+  - first:
+      213: -359426811617249108
+    second: par3_tileable_640x360px_62
+  - first:
+      213: -334527956021642198
+    second: par3_tileable_640x360px_63
+  - first:
+      213: 4467461520143115927
+    second: par3_tileable_640x360px_64
+  - first:
+      213: -846659119324378325
+    second: par3_tileable_640x360px_65
+  - first:
+      213: 2220294457000307750
+    second: par3_tileable_640x360px_66
+  - first:
+      213: 5668592125835461091
+    second: par3_tileable_640x360px_67
+  - first:
+      213: -8703105671477471154
+    second: par3_tileable_640x360px_68
+  - first:
+      213: -8361174062797982578
+    second: par3_tileable_640x360px_69
+  - first:
+      213: 2739267737444692449
+    second: par3_tileable_640x360px_70
+  - first:
+      213: 3537333794418215034
+    second: par3_tileable_640x360px_71
+  - first:
+      213: 7350830654787161741
+    second: par3_tileable_640x360px_72
+  - first:
+      213: 659055622652583549
+    second: par3_tileable_640x360px_73
+  - first:
+      213: 499242675665306940
+    second: par3_tileable_640x360px_74
+  - first:
+      213: -2078274815270638385
+    second: par3_tileable_640x360px_75
+  - first:
+      213: 9205291995882073597
+    second: par3_tileable_640x360px_76
+  - first:
+      213: 2374770488656882806
+    second: par3_tileable_640x360px_77
+  - first:
+      213: 3665862550302799561
+    second: par3_tileable_640x360px_78
+  - first:
+      213: 2026719292917006844
+    second: par3_tileable_640x360px_79
+  - first:
+      213: -6326903593664836387
+    second: par3_tileable_640x360px_80
+  - first:
+      213: 4535902691646367878
+    second: par3_tileable_640x360px_81
+  - first:
+      213: -2038789457634607887
+    second: par3_tileable_640x360px_82
+  - first:
+      213: 518116621269805644
+    second: par3_tileable_640x360px_83
+  - first:
+      213: 7117362644776371581
+    second: par3_tileable_640x360px_84
+  - first:
+      213: 6626991914316916197
+    second: par3_tileable_640x360px_85
+  - first:
+      213: 2977703440939942738
+    second: par3_tileable_640x360px_86
+  - first:
+      213: -6580367802854723997
+    second: par3_tileable_640x360px_87
+  - first:
+      213: 2001392897404781186
+    second: par3_tileable_640x360px_88
+  - first:
+      213: 4640253365328963626
+    second: par3_tileable_640x360px_89
+  - first:
+      213: 53697382910853088
+    second: par3_tileable_640x360px_90
+  - first:
+      213: 3563775570147511926
+    second: par3_tileable_640x360px_91
+  - first:
+      213: 941688532597771399
+    second: par3_tileable_640x360px_92
+  - first:
+      213: -7064167814443256576
+    second: par3_tileable_640x360px_93
+  - first:
+      213: -7930896902033192100
+    second: par3_tileable_640x360px_94
+  - first:
+      213: -2334669228952072276
+    second: par3_tileable_640x360px_95
+  - first:
+      213: 4421929295096203411
+    second: par3_tileable_640x360px_96
+  - first:
+      213: -518167350163683620
+    second: par3_tileable_640x360px_97
+  - first:
+      213: 8736651334961176612
+    second: par3_tileable_640x360px_98
+  - first:
+      213: 3847151929520956643
+    second: par3_tileable_640x360px_99
+  - first:
+      213: -532339382235743488
+    second: par3_tileable_640x360px_100
+  - first:
+      213: 8643942102360553220
+    second: par3_tileable_640x360px_101
+  - first:
+      213: 3233523963408120952
+    second: par3_tileable_640x360px_102
+  - first:
+      213: -7831052620889622519
+    second: par3_tileable_640x360px_103
+  - first:
+      213: -811273309966217348
+    second: par3_tileable_640x360px_104
+  - first:
+      213: -3727343571771915156
+    second: par3_tileable_640x360px_105
+  - first:
+      213: -3914102738862619210
+    second: par3_tileable_640x360px_106
+  - first:
+      213: 5636733895196153599
+    second: par3_tileable_640x360px_107
+  - first:
+      213: -4502377701236248237
+    second: par3_tileable_640x360px_108
+  - first:
+      213: -9185094068560905074
+    second: par3_tileable_640x360px_109
+  - first:
+      213: -3302094710997218132
+    second: par3_tileable_640x360px_110
+  - first:
+      213: 7258480620973052833
+    second: par3_tileable_640x360px_111
+  - first:
+      213: 3905773059247963634
+    second: par3_tileable_640x360px_112
+  - first:
+      213: 421986524606814123
+    second: par3_tileable_640x360px_113
+  - first:
+      213: 4814248061658314885
+    second: par3_tileable_640x360px_114
+  - first:
+      213: -1945626100120682355
+    second: par3_tileable_640x360px_115
+  - first:
+      213: -8795227589152503092
+    second: par3_tileable_640x360px_116
+  - first:
+      213: -5575070542472546
+    second: par3_tileable_640x360px_117
+  - first:
+      213: 2913216468340962709
+    second: par3_tileable_640x360px_118
+  - first:
+      213: -7788396127855814524
+    second: par3_tileable_640x360px_119
+  - first:
+      213: 6279401081456027701
+    second: par3_tileable_640x360px_120
+  - first:
+      213: -3684552233921656413
+    second: par3_tileable_640x360px_121
+  - first:
+      213: 8069821453609467581
+    second: par3_tileable_640x360px_122
+  - first:
+      213: 445364826305135156
+    second: par3_tileable_640x360px_123
+  - first:
+      213: 4978146277606014661
+    second: par3_tileable_640x360px_124
+  - first:
+      213: -1042944037801969208
+    second: par3_tileable_640x360px_125
+  - first:
+      213: -2555142712507483262
+    second: par3_tileable_640x360px_126
+  - first:
+      213: -7183754058690317266
+    second: par3_tileable_640x360px_127
+  - first:
+      213: -7180571497347722042
+    second: par3_tileable_640x360px_128
+  - first:
+      213: 5292848419650723556
+    second: par3_tileable_640x360px_129
+  - first:
+      213: -7307509860023061370
+    second: par3_tileable_640x360px_130
+  - first:
+      213: 5110964717799693965
+    second: par3_tileable_640x360px_131
+  - first:
+      213: -6651485238936467403
+    second: par3_tileable_640x360px_132
+  - first:
+      213: -311591663388384585
+    second: par3_tileable_640x360px_133
+  - first:
+      213: -1951038348292405906
+    second: par3_tileable_640x360px_134
+  - first:
+      213: -1018532274057984742
+    second: par3_tileable_640x360px_135
+  - first:
+      213: 8586583501114982704
+    second: par3_tileable_640x360px_136
+  - first:
+      213: 2484758404742869686
+    second: par3_tileable_640x360px_137
+  - first:
+      213: 7332614944917697017
+    second: par3_tileable_640x360px_138
+  - first:
+      213: -3959395361409741380
+    second: par3_tileable_640x360px_139
+  - first:
+      213: -6150109795572053998
+    second: par3_tileable_640x360px_140
+  - first:
+      213: -7412051557002304128
+    second: par3_tileable_640x360px_141
+  - first:
+      213: 4006356865811118939
+    second: par3_tileable_640x360px_142
+  - first:
+      213: -5981582919415565465
+    second: par3_tileable_640x360px_143
+  - first:
+      213: 4494503938821421242
+    second: par3_tileable_640x360px_144
+  - first:
+      213: 8348272257314604572
+    second: par3_tileable_640x360px_145
+  - first:
+      213: -3175548055877602741
+    second: par3_tileable_640x360px_146
+  - first:
+      213: -1866584927214463457
+    second: par3_tileable_640x360px_147
+  - first:
+      213: -1287972840350985832
+    second: par3_tileable_640x360px_148
+  - first:
+      213: -581516078288647821
+    second: par3_tileable_640x360px_149
+  - first:
+      213: 4066994118409594360
+    second: par3_tileable_640x360px_150
+  - first:
+      213: -201892251662277726
+    second: par3_tileable_640x360px_151
+  - first:
+      213: -3439570240783070775
+    second: par3_tileable_640x360px_152
+  - first:
+      213: 7368587924802254858
+    second: par3_tileable_640x360px_153
+  - first:
+      213: -7942394704141111937
+    second: par3_tileable_640x360px_154
+  - first:
+      213: 990058327699305043
+    second: par3_tileable_640x360px_155
+  - first:
+      213: -4977110106753673131
+    second: par3_tileable_640x360px_156
+  - first:
+      213: -5294189797986678078
+    second: par3_tileable_640x360px_157
+  - first:
+      213: -6266620285124316605
+    second: par3_tileable_640x360px_158
+  - first:
+      213: 7789212088182870573
+    second: par3_tileable_640x360px_159
+  - first:
+      213: -9066212556326983250
+    second: par3_tileable_640x360px_160
+  - first:
+      213: -9221021504543909344
+    second: par3_tileable_640x360px_161
+  - first:
+      213: 7136207207101480984
+    second: par3_tileable_640x360px_162
+  - first:
+      213: 3039481294460034250
+    second: par3_tileable_640x360px_163
+  - first:
+      213: -7404874780406257274
+    second: par3_tileable_640x360px_164
+  - first:
+      213: 6611778182242239919
+    second: par3_tileable_640x360px_165
+  - first:
+      213: 3810328785204277162
+    second: par3_tileable_640x360px_166
+  - first:
+      213: 992964166504509697
+    second: par3_tileable_640x360px_167
+  - first:
+      213: -6759230032761706639
+    second: par3_tileable_640x360px_168
+  - first:
+      213: 1993931549409938063
+    second: par3_tileable_640x360px_169
+  - first:
+      213: -3886621632208813267
+    second: par3_tileable_640x360px_170
+  - first:
+      213: 7857870157752446331
+    second: par3_tileable_640x360px_171
+  - first:
+      213: 4946487828415618440
+    second: par3_tileable_640x360px_172
+  - first:
+      213: 7403191193355288679
+    second: par3_tileable_640x360px_173
+  - first:
+      213: 8983936564958955934
+    second: par3_tileable_640x360px_174
+  - first:
+      213: -6924181766794500873
+    second: par3_tileable_640x360px_175
+  - first:
+      213: -6402786814073492184
+    second: par3_tileable_640x360px_176
+  - first:
+      213: -9204258159068516793
+    second: par3_tileable_640x360px_177
+  - first:
+      213: 5821615407337372011
+    second: par3_tileable_640x360px_178
+  - first:
+      213: 1070111040780375890
+    second: par3_tileable_640x360px_179
+  - first:
+      213: -5061074854002158153
+    second: par3_tileable_640x360px_180
+  - first:
+      213: 4437015803208336329
+    second: par3_tileable_640x360px_181
+  - first:
+      213: 4812421720514277711
+    second: par3_tileable_640x360px_182
+  - first:
+      213: 483637946794769780
+    second: par3_tileable_640x360px_183
+  - first:
+      213: -602110704464592220
+    second: par3_tileable_640x360px_184
+  - first:
+      213: 2013169194127810721
+    second: par3_tileable_640x360px_185
+  - first:
+      213: 232792334782700709
+    second: par3_tileable_640x360px_186
+  - first:
+      213: -2653029542130278822
+    second: par3_tileable_640x360px_187
+  - first:
+      213: 7819117000159375861
+    second: par3_tileable_640x360px_188
+  - first:
+      213: -6297764852542423811
+    second: par3_tileable_640x360px_189
+  - first:
+      213: -4183840412286467499
+    second: par3_tileable_640x360px_190
+  - first:
+      213: 7359028720950813014
+    second: par3_tileable_640x360px_191
+  - first:
+      213: 1512383602445729567
+    second: par3_tileable_640x360px_192
+  - first:
+      213: 2013101119459318878
+    second: par3_tileable_640x360px_193
+  - first:
+      213: -6629272363509059803
+    second: par3_tileable_640x360px_194
+  - first:
+      213: -2247001889072137615
+    second: par3_tileable_640x360px_195
+  - first:
+      213: 791623560785897466
+    second: par3_tileable_640x360px_196
+  - first:
+      213: 7059551490670416580
+    second: par3_tileable_640x360px_197
+  - first:
+      213: 145040031179822482
+    second: par3_tileable_640x360px_198
+  - first:
+      213: 5712348067794505794
+    second: par3_tileable_640x360px_199
+  - first:
+      213: 585519498060507124
+    second: par3_tileable_640x360px_200
+  - first:
+      213: -2254109692344902359
+    second: par3_tileable_640x360px_201
+  - first:
+      213: 5565211529206920013
+    second: par3_tileable_640x360px_202
+  - first:
+      213: 3029102672005771397
+    second: par3_tileable_640x360px_203
+  - first:
+      213: 310081564700795380
+    second: par3_tileable_640x360px_204
+  - first:
+      213: -3498186364173272357
+    second: par3_tileable_640x360px_205
+  - first:
+      213: 9175846119522447377
+    second: par3_tileable_640x360px_206
+  - first:
+      213: 4943188831468632426
+    second: par3_tileable_640x360px_207
+  - first:
+      213: -8219722805960484467
+    second: par3_tileable_640x360px_208
+  - first:
+      213: -1752463420217272541
+    second: par3_tileable_640x360px_209
+  - first:
+      213: 6359543248359951019
+    second: par3_tileable_640x360px_210
+  - first:
+      213: -3943058956603353369
+    second: par3_tileable_640x360px_211
+  - first:
+      213: 1324506357763187293
+    second: par3_tileable_640x360px_212
+  - first:
+      213: 7189503499050899030
+    second: par3_tileable_640x360px_213
+  - first:
+      213: -7654737550654206993
+    second: par3_tileable_640x360px_214
+  - first:
+      213: -3599674146761190422
+    second: par3_tileable_640x360px_215
+  - first:
+      213: -7707381860633763742
+    second: par3_tileable_640x360px_216
+  - first:
+      213: -763013741018067538
+    second: par3_tileable_640x360px_217
+  - first:
+      213: -5637496731817144698
+    second: par3_tileable_640x360px_218
+  - first:
+      213: 7146531610747211114
+    second: par3_tileable_640x360px_219
+  - first:
+      213: 2350970083159185596
+    second: par3_tileable_640x360px_220
+  - first:
+      213: -2821674864271656161
+    second: par3_tileable_640x360px_221
+  - first:
+      213: 1871486183044237487
+    second: par3_tileable_640x360px_222
+  - first:
+      213: -4228563978388224469
+    second: par3_tileable_640x360px_223
+  - first:
+      213: -7097823012267796437
+    second: par3_tileable_640x360px_224
+  - first:
+      213: 3854297911241337836
+    second: par3_tileable_640x360px_225
+  - first:
+      213: 9156701003570575
+    second: par3_tileable_640x360px_226
+  - first:
+      213: -4883420518433832736
+    second: par3_tileable_640x360px_227
+  - first:
+      213: 1000631789513245961
+    second: par3_tileable_640x360px_228
+  - first:
+      213: -5871776407605658663
+    second: par3_tileable_640x360px_229
+  - first:
+      213: 5173884587672528524
+    second: par3_tileable_640x360px_230
+  - first:
+      213: 2396373369150746340
+    second: par3_tileable_640x360px_231
+  - first:
+      213: -7218044005540697193
+    second: par3_tileable_640x360px_232
+  - first:
+      213: -665861571869121206
+    second: par3_tileable_640x360px_233
+  - first:
+      213: 1065285389957451313
+    second: par3_tileable_640x360px_234
+  - first:
+      213: 110020737120938670
+    second: par3_tileable_640x360px_235
+  - first:
+      213: 4524431334229022700
+    second: par3_tileable_640x360px_236
+  - first:
+      213: 1698852713724242228
+    second: par3_tileable_640x360px_237
+  - first:
+      213: 2829315919591265024
+    second: par3_tileable_640x360px_238
+  - first:
+      213: 3737754087376145347
+    second: par3_tileable_640x360px_239
+  - first:
+      213: -4737244687617916515
+    second: par3_tileable_640x360px_240
+  - first:
+      213: 1780410586658158534
+    second: par3_tileable_640x360px_241
+  - first:
+      213: -4888050549470646223
+    second: par3_tileable_640x360px_242
+  - first:
+      213: -2608551225330589163
+    second: par3_tileable_640x360px_243
+  - first:
+      213: 7099497322373603784
+    second: par3_tileable_640x360px_244
+  - first:
+      213: -1061854376340575457
+    second: par3_tileable_640x360px_245
+  - first:
+      213: -440257513713663066
+    second: par3_tileable_640x360px_246
+  - first:
+      213: -5611241324703261783
+    second: par3_tileable_640x360px_247
+  - first:
+      213: 3201167360016663071
+    second: par3_tileable_640x360px_248
+  - first:
+      213: 4161374369018070560
+    second: par3_tileable_640x360px_249
+  - first:
+      213: 3368589181984425158
+    second: par3_tileable_640x360px_250
+  - first:
+      213: 7630444343939835002
+    second: par3_tileable_640x360px_251
+  - first:
+      213: -8257573499074473833
+    second: par3_tileable_640x360px_252
+  - first:
+      213: -2219812773885685135
+    second: par3_tileable_640x360px_253
+  - first:
+      213: 9048922115091771604
+    second: par3_tileable_640x360px_254
+  - first:
+      213: -2867178301428828111
+    second: par3_tileable_640x360px_255
+  - first:
+      213: 6420960109966291139
+    second: par3_tileable_640x360px_256
+  - first:
+      213: -6515223632208206393
+    second: par3_tileable_640x360px_257
+  - first:
+      213: -3316893888276274136
+    second: par3_tileable_640x360px_258
+  - first:
+      213: -1532634003822370823
+    second: par3_tileable_640x360px_259
+  - first:
+      213: -3040285908751209154
+    second: par3_tileable_640x360px_260
+  - first:
+      213: -7469959810841203500
+    second: par3_tileable_640x360px_261
+  - first:
+      213: -3874572730210764219
+    second: par3_tileable_640x360px_262
+  - first:
+      213: 8607493150800235428
+    second: par3_tileable_640x360px_263
+  - first:
+      213: 4025021208083156190
+    second: par3_tileable_640x360px_264
+  - first:
+      213: 8472483553622238012
+    second: par3_tileable_640x360px_265
+  - first:
+      213: -5219322703431791130
+    second: par3_tileable_640x360px_266
+  - first:
+      213: 3231334466680666308
+    second: par3_tileable_640x360px_267
+  - first:
+      213: -4428460187765115935
+    second: par3_tileable_640x360px_268
+  - first:
+      213: 1556401509178119019
+    second: par3_tileable_640x360px_269
+  - first:
+      213: -500768403355599174
+    second: par3_tileable_640x360px_270
+  - first:
+      213: -3145980589655727359
+    second: par3_tileable_640x360px_271
+  - first:
+      213: -3421639272664281737
+    second: par3_tileable_640x360px_272
+  - first:
+      213: -1149280838133762452
+    second: par3_tileable_640x360px_273
+  - first:
+      213: 7382432211397786369
+    second: par3_tileable_640x360px_274
+  - first:
+      213: -1906871105091337543
+    second: par3_tileable_640x360px_275
+  - first:
+      213: 6474611294892761621
+    second: par3_tileable_640x360px_276
+  - first:
+      213: 8344896185854707872
+    second: par3_tileable_640x360px_277
+  - first:
+      213: 1789818801647338859
+    second: par3_tileable_640x360px_278
+  - first:
+      213: -4694513500317643124
+    second: par3_tileable_640x360px_279
+  - first:
+      213: 235330385585159039
+    second: par3_tileable_640x360px_280
+  - first:
+      213: 7350361183493415632
+    second: par3_tileable_640x360px_281
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b933db2886fe00be0800000000000000
+      internalID: -1512946242647411813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f831e5352667f9d30800000000000000
+      internalID: 4440397922288145295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd65bb95ccf54580800000000000000
+      internalID: -8843384367620985412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2aa7c1621514340800000000000000
+      internalID: 4846243898155770548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecd75c95c03254a0800000000000000
+      internalID: -6606164078109401887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62be1af18bc5c3330800000000000000
+      internalID: 3691927740411407142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa3b732e5d52d3a0800000000000000
+      internalID: -6642143841514472787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2eff79d7abd3130800000000000000
+      internalID: 3548197130021626578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751b7f0d16f9d2420800000000000000
+      internalID: 2606915001783923031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17565d2864c0509f0800000000000000
+      internalID: -502982286399675023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_10
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35447071db8fb2ff0800000000000000
+      internalID: -59680679020510125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3f65779557434e0800000000000000
+      internalID: -2002846907158301737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748817b4f9b389900800000000000000
+      internalID: 691368098152941639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4254bc30bab59d0800000000000000
+      internalID: -2784443911814961973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6286d1812281a6c00800000000000000
+      internalID: 894554010698999846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6690699e317398f0800000000000000
+      internalID: -534959417051802004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a110b6f8b522260800000000000000
+      internalID: 7071315036458785381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2beb12293dbbe0e0800000000000000
+      internalID: -2239488336603649235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d907b505582b55f0800000000000000
+      internalID: -766974965903324712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a3aaef0e2ade220800000000000000
+      internalID: 2516846853998918197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb10c44393c3738f0800000000000000
+      internalID: -560913412196138562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2050fc6cf71a89f0800000000000000
+      internalID: -465533238552539091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b2e038b76ecc8b0800000000000000
+      internalID: -5130472457327727783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b54b7ff7e361be0800000000000000
+      internalID: -1506948305971291275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4be22c9569ebd80800000000000000
+      internalID: -8232977756532591411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6294393fd3edb7f20800000000000000
+      internalID: 3421572699578911014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f84adf36632ea460800000000000000
+      internalID: 7254774971805354233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76877b70a3e39e340800000000000000
+      internalID: 4893510889073244263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2b520e7c61cf070800000000000000
+      internalID: 8141407274093884148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b591f67ccdc14590800000000000000
+      internalID: -7691640410519530057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_30
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc4b4816f019f5f0800000000000000
+      internalID: -722527616060666691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a210525f71daaac90800000000000000
+      internalID: -7157718339343285974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b6021230b4e58c0800000000000000
+      internalID: -4008684141500404902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_33
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614f3ec4cdcfa9040800000000000000
+      internalID: 4655311187953841174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a774fb1accf7d830800000000000000
+      internalID: 4096020331099355043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_35
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5505e4d0489a63a0800000000000000
+      internalID: -6671352493778860707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecf44006a18be130800000000000000
+      internalID: 3597111277354548448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_37
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332b118a0ed8397a0800000000000000
+      internalID: -6371593051767197133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_38
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614eca0ae839bb120800000000000000
+      internalID: 2430698664686838806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3ab319400316100800000000000000
+      internalID: 99413462953468889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a10433f1c663c90800000000000000
+      internalID: -7190440873790793095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_41
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaf4c890634d1fe0800000000000000
+      internalID: -1216742242161198425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d64508523905a2e0800000000000000
+      internalID: -2115274338150824234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97988d8213e768580800000000000000
+      internalID: -8825227670182131335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951cf16c0c20fa660800000000000000
+      internalID: 7399135739773960537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec854a27fb1150f00800000000000000
+      internalID: 1082290799412271310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1927c07f31ae030800000000000000
+      internalID: 3524651610157519304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a07696f703eea100800000000000000
+      internalID: 121283863326912677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0106e76d967bbdc60800000000000000
+      internalID: 7844064841193906192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9297334e51c79cb60800000000000000
+      internalID: 7766875465841867049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3806e4d5bef23c000800000000000000
+      internalID: 54940308387815555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30544aa2546d1a4f0800000000000000
+      internalID: -819138064648223485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eb384c0bea5b470800000000000000
+      internalID: 8409819953418714645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_53
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6459afb63223ee60800000000000000
+      internalID: 7990267782424515694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55f873918e27b220800000000000000
+      internalID: 2501519252087436636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bae8decdf68e4e80800000000000000
+      internalID: -8192462247485183308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e268114c463f74510800000000000000
+      internalID: 1533461812254705198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312a4f39ff198b370800000000000000
+      internalID: 8338575236961444371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9a1778f9dc7e750800000000000000
+      internalID: 6334257485975759287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_59
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8d8c657692928a0800000000000000
+      internalID: -6329482277478147862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d927be413a48ddbd0800000000000000
+      internalID: -2603779173584768355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_61
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648df770f02e55aa0800000000000000
+      internalID: -6172779160063190970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca87dca183f030bf0800000000000000
+      internalID: -359426811617249108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_63
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c74eda8948b5bf0800000000000000
+      internalID: -334527956021642198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_64
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7966bdb359c9ffd30800000000000000
+      internalID: 4467461520143115927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_65
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b43da44001044f0800000000000000
+      internalID: -846659119324378325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ca5468b0210de10800000000000000
+      internalID: 2220294457000307750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1cff44182eaae40800000000000000
+      internalID: 5668592125835461091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_68
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48d5e8b08b583780800000000000000
+      internalID: -8703105671477471154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8477b14d7427fb80800000000000000
+      internalID: -8361174062797982578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e134137e75d30620800000000000000
+      internalID: 2739267737444692449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_71
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78484c2852271130800000000000000
+      internalID: 3537333794418215034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_72
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e04aeb885630660800000000000000
+      internalID: 7350830654787161741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_73
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e5e63d89f652900800000000000000
+      internalID: 659055622652583549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c350fb3819aade600800000000000000
+      internalID: 499242675665306940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc2722111c7823e0800000000000000
+      internalID: -2078274815270638385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_76
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd2c4c6c44cfbf70800000000000000
+      internalID: 9205291995882073597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_77
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c69776d21e4f020800000000000000
+      internalID: 2374770488656882806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_78
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6b4322192cfd230800000000000000
+      internalID: 3665862550302799561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_79
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1cfb9757a502c10800000000000000
+      internalID: 2026719292917006844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_80
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc0773f3b25238a0800000000000000
+      internalID: -6326903593664836387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_81
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688e15f3773c2fe30800000000000000
+      internalID: 4535902691646367878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcb0ed4ac3c4b3e0800000000000000
+      internalID: -2038789457634607887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_83
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a230b6258b03700800000000000000
+      internalID: 518116621269805644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75c783bd93f5c260800000000000000
+      internalID: 7117362644776371581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_85
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5ee36e80ec7fb50800000000000000
+      internalID: 6626991914316916197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2530fa3c08de25920800000000000000
+      internalID: 2977703440939942738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e2d6bf856dda4a0800000000000000
+      internalID: -6580367802854723997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2824dc18c3066cb10800000000000000
+      internalID: 2001392897404781186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_89
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a286e34c9dd756040800000000000000
+      internalID: 4640253365328963626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eff4c93c75ceb000800000000000000
+      internalID: 53697382910853088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e8bd5dff2157130800000000000000
+      internalID: 3563775570147511926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c8c8a2bbc811d00800000000000000
+      internalID: 941688532597771399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_93
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005bc52ecc807fd90800000000000000
+      internalID: -7064167814443256576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bc01c894bcfe190800000000000000
+      internalID: -7930896902033192100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafc644b4b6999fd0800000000000000
+      internalID: -2334669228952072276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_96
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3984a18f349dd5d30800000000000000
+      internalID: 4421929295096203411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_97
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6c9475a891fc8f0800000000000000
+      internalID: -518167350163683620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420adc2b912de3970800000000000000
+      internalID: 8736651334961176612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_99
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e42e0cfb44d36530800000000000000
+      internalID: 3847151929520956643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_100
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b33edf620cc98f0800000000000000
+      internalID: -532339382235743488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_101
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4077e366b8375f770800000000000000
+      internalID: 8643942102360553220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_102
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c77aba9e8cfdc20800000000000000
+      internalID: 3233523963408120952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_103
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9087b7ac123825390800000000000000
+      internalID: -7831052620889622519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_104
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f45bf0937cdb4f0800000000000000
+      internalID: -811273309966217348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_105
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6403b015c0d54cc0800000000000000
+      internalID: -3727343571771915156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_106
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5c5bbfb405ea9c0800000000000000
+      internalID: -3914102738862619210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_107
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6129cec93b93e40800000000000000
+      internalID: 5636733895196153599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_108
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3517c29d5575481c0800000000000000
+      internalID: -4502377701236248237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_109
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c31eefb9df78080800000000000000
+      internalID: -9185094068560905074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac80580b5a9c22d0800000000000000
+      internalID: -3302094710997218132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_111
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3d72eeaad4bb460800000000000000
+      internalID: 7258480620973052833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_112
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdf3c957e7143630800000000000000
+      internalID: 3905773059247963634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_113
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7d03322823bd500800000000000000
+      internalID: 421986524606814123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_114
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588b1c7ea15afc240800000000000000
+      internalID: 4814248061658314885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_115
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80049cce5fbff4e0800000000000000
+      internalID: -1945626100120682355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_116
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca89d55b1311f580800000000000000
+      internalID: -8795227589152503092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_117
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ad7bcb0813ceff0800000000000000
+      internalID: -5575070542472546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_118
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595f74d61f2dd6820800000000000000
+      internalID: 2913216468340962709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_119
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48850258cfe0ae390800000000000000
+      internalID: -7788396127855814524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_120
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538e36e830ae42750800000000000000
+      internalID: 6279401081456027701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_121
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a94abcc347dddcc0800000000000000
+      internalID: -3684552233921656413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbef7373bd3cdff60800000000000000
+      internalID: 8069821453609467581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_123
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4320f5b23f04e2600800000000000000
+      internalID: 445364826305135156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_124
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ceb3a40aade51540800000000000000
+      internalID: 4978146277606014661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_125
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9b3326ce7b681f0800000000000000
+      internalID: -1042944037801969208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_126
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b309e9d3f4a8cd0800000000000000
+      internalID: -2555142712507483262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_127
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e243ef9aebd2e4c90800000000000000
+      internalID: -7183754058690317266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_128
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c45b48744c795c90800000000000000
+      internalID: -7180571497347722042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_129
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eed44f4899f37940800000000000000
+      internalID: 5292848419650723556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68439a8cf72869a90800000000000000
+      internalID: -7307509860023061370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_131
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e5100f45bcde640800000000000000
+      internalID: 5110964717799693965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_132
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53800709a6d21b3a0800000000000000
+      internalID: -6651485238936467403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_133
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b223c478010dabf0800000000000000
+      internalID: -311591663388384585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65cdd295f48ce4e0800000000000000
+      internalID: -1951038348292405906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_135
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15c08c0b427dd1f0800000000000000
+      internalID: -1018532274057984742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_136
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031403a533ca92770800000000000000
+      internalID: 8586583501114982704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_137
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b27d53ba92ab7220800000000000000
+      internalID: 2484758404742869686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_138
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f13a8a417ea2c560800000000000000
+      internalID: 7332614944917697017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_139
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdc7d585e66d09c0800000000000000
+      internalID: -3959395361409741380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_140
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2180741c9bb66aaa0800000000000000
+      internalID: -6150109795572053998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_141
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0852fff216a132990800000000000000
+      internalID: -7412051557002304128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_142
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b7e16c750799730800000000000000
+      internalID: 4006356865811118939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_143
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763f0bdc6062dfca0800000000000000
+      internalID: -5981582919415565465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_144
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab87b0bf48faf5e30800000000000000
+      internalID: 4494503938821421242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_145
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c164c7113650bd370800000000000000
+      internalID: 8348272257314604572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_146
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42bb323edf2ee3d0800000000000000
+      internalID: -3175548055877602741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_147
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f169846f5ee8816e0800000000000000
+      internalID: -1866584927214463457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_148
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89157829683302ee0800000000000000
+      internalID: -1287972840350985832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_149
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3794d62353a0ee7f0800000000000000
+      internalID: -581516078288647821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_150
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f528635a9dd07830800000000000000
+      internalID: 4066994118409594360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_151
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a324c8111cb23df0800000000000000
+      internalID: -201892251662277726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_152
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9ce12f6113440d0800000000000000
+      internalID: -3439570240783070775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_153
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08321a5dab724660800000000000000
+      internalID: 7368587924802254858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7da9b1e812f6c190800000000000000
+      internalID: -7942394704141111937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_155
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3523f61bdc46dbd00800000000000000
+      internalID: 990058327699305043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_156
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558d0fe4ab0cdeab0800000000000000
+      internalID: -4977110106753673131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_157
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cac185bd624786b0800000000000000
+      internalID: -5294189797986678078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_158
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34278ea7d0e7809a0800000000000000
+      internalID: -6266620285124316605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_159
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22915c0027d81c60800000000000000
+      internalID: 7789212088182870573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_160
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9a1f107b75e2280800000000000000
+      internalID: -9066212556326983250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_161
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a1c63fbc9580080800000000000000
+      internalID: -9221021504543909344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810cdd645a6e80360800000000000000
+      internalID: 7136207207101480984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_163
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc1cb922286e2a20800000000000000
+      internalID: 3039481294460034250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_164
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689e2a3be999c3990800000000000000
+      internalID: -7404874780406257274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_165
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa50a3ed931c1cb50800000000000000
+      internalID: 6611778182242239919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_166
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafeb8797d101e430800000000000000
+      internalID: 3810328785204277162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_167
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101713306a7b7cd00800000000000000
+      internalID: 992964166504509697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177261ed8146232a0800000000000000
+      internalID: -6759230032761706639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_169
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a060d0e2edbab10800000000000000
+      internalID: 1993931549409938063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_170
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2348dbb732ff0ac0800000000000000
+      internalID: -3886621632208813267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_171
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d2af39643cc0d60800000000000000
+      internalID: 7857870157752446331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_172
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d918ae87475a440800000000000000
+      internalID: 4946487828415618440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_173
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7600e34aa2b6db660800000000000000
+      internalID: 7403191193355288679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e998507f4ba5dac70800000000000000
+      internalID: 8983936564958955934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_175
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f42af57e5d58ef90800000000000000
+      internalID: -6924181766794500873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_176
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d2896e05bb427a0800000000000000
+      internalID: -6402786814073492184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_177
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eeab778f7e34080800000000000000
+      internalID: -9204258159068516793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_178
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69f8456e588ac050800000000000000
+      internalID: 5821615407337372011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_179
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25710f7625cc9de00800000000000000
+      internalID: 1070111040780375890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_180
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b51a892c3373c9b0800000000000000
+      internalID: -5061074854002158153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_181
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3070d5d52739d30800000000000000
+      internalID: 4437015803208336329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_182
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41b0a8be0829c240800000000000000
+      internalID: 4812421720514277711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_183
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47df992762a36b600800000000000000
+      internalID: 483637946794769780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_184
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a28de0218fd4a7f0800000000000000
+      internalID: -602110704464592220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_185
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a06fb047b630fb10800000000000000
+      internalID: 2013169194127810721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_186
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac1825256b0b3300800000000000000
+      internalID: 232792334782700709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_187
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e15b210bb8e2bd0800000000000000
+      internalID: -2653029542130278822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_188
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1b7b3fb75138c60800000000000000
+      internalID: 7819117000159375861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_189
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcb44dcb38d998a0800000000000000
+      internalID: -6297764852542423811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552cdbcdf4300f5c0800000000000000
+      internalID: -4183840412286467499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_191
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651ab24c1a5802660800000000000000
+      internalID: 7359028720950813014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_192
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f37eb9fd01df410800000000000000
+      internalID: 1512383602445729567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_193
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c50526dc8ffeb10800000000000000
+      internalID: 2013101119459318878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_194
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f6ab5a8e71004a0800000000000000
+      internalID: -6629272363509059803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_195
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a3930efab01d0e0800000000000000
+      internalID: -2247001889072137615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_196
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af729703f696cfa00800000000000000
+      internalID: 791623560785897466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_197
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c25dfa7da098f160800000000000000
+      internalID: 7059551490670416580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_198
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2955fa0d329430200800000000000000
+      internalID: 145040031179822482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_199
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240d7466d46564f40800000000000000
+      internalID: 5712348067794505794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_200
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f726fa91ee202800800000000000000
+      internalID: 585519498060507124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_201
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d54077d2bc7b0e0800000000000000
+      internalID: -2254109692344902359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_202
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43794a666a9b3d40800000000000000
+      internalID: 5565211529206920013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_203
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5803711d4d8890a20800000000000000
+      internalID: 3029102672005771397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_204
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1636b4a81ad4400800000000000000
+      internalID: 310081564700795380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_205
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda36553902f37fc0800000000000000
+      internalID: -3498186364173272357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_206
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11038c31e67275f70800000000000000
+      internalID: 9175846119522447377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_207
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69bd555d0cb99440800000000000000
+      internalID: 4943188831468632426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_208
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d895c8e68adaded80800000000000000
+      internalID: -8219722805960484467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_209
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3275514edcffda7e0800000000000000
+      internalID: -1752463420217272541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_210
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa8a3cd3e2a14850800000000000000
+      internalID: 6359543248359951019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_211
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e61c3b25c07749c0800000000000000
+      internalID: -3943058956603353369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_212
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52a83dc387916210800000000000000
+      internalID: 1324506357763187293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_213
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6565b5c375f36c360800000000000000
+      internalID: 7189503499050899030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb896411c8e4c590800000000000000
+      internalID: -7654737550654206993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_215
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae354277f636b0ec0800000000000000
+      internalID: -3599674146761190422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_216
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260a2a08801e90590800000000000000
+      internalID: -7707381860633763742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_217
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead40ef8b0b3965f0800000000000000
+      internalID: -763013741018067538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_218
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e0d95579693c1b0800000000000000
+      internalID: -5637496731817144698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_219
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d00b2d2a49d2360800000000000000
+      internalID: 7146531610747211114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_220
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8164ca5d250a020800000000000000
+      internalID: 2350970083159185596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_221
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b707b29a567d8d0800000000000000
+      internalID: -2821674864271656161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_222
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8476694cad8f910800000000000000
+      internalID: 1871486183044237487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_223
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26482e277f1155c0800000000000000
+      internalID: -4228563978388224469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_224
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b285f2383977f7d90800000000000000
+      internalID: -7097823012267796437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_225
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebe11287873d7530800000000000000
+      internalID: 3854297911241337836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_226
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dd1a698f7802000800000000000000
+      internalID: 9156701003570575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_227
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0c5e579ea9a3cb0800000000000000
+      internalID: -4883420518433832736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_228
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90586ec9f45f2ed00800000000000000
+      internalID: 1000631789513245961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_229
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db3520a772438ea0800000000000000
+      internalID: -5871776407605658663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_230
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86e61dbe945dc740800000000000000
+      internalID: 5173884587672528524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_231
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeaf69f1e0a14120800000000000000
+      internalID: 2396373369150746340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_232
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79beb94483b54db90800000000000000
+      internalID: -7218044005540697193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_233
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a456823ad6262c6f0800000000000000
+      internalID: -665861571869121206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_234
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ec3d40b67a8ce00800000000000000
+      internalID: 1065285389957451313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_235
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa250a074fd68100800000000000000
+      internalID: 110020737120938670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_236
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce71e57b3520ace30800000000000000
+      internalID: 4524431334229022700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_237
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439ed3fca89839710800000000000000
+      internalID: 1698852713724242228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_238
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0035898a6dfb34720800000000000000
+      internalID: 2829315919591265024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_239
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbc1dbf98b2fd330800000000000000
+      internalID: 3737754087376145347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_240
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d918d6c3e0de14eb0800000000000000
+      internalID: -4737244687617916515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_241
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7ba1cdef945b810800000000000000
+      internalID: 1780410586658158534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_242
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13036aa5ce72a2cb0800000000000000
+      internalID: -4888050549470646223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_243
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512a2c33b709ccbd0800000000000000
+      internalID: -2608551225330589163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_244
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c16aef233b768260800000000000000
+      internalID: 7099497322373603784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_245
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ba60712198341f0800000000000000
+      internalID: -1061854376340575457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_246
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a38665bf14e3e9f0800000000000000
+      internalID: -440257513713663066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_247
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abd11caebdd022b0800000000000000
+      internalID: -5611241324703261783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_248
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f124e50e0c4dc6c20800000000000000
+      internalID: 3201167360016663071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_249
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026ccb2d0fb20c930800000000000000
+      internalID: 4161374369018070560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_250
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4c7627302afbe20800000000000000
+      internalID: 3368589181984425158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_251
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a742ce6f3b8c4e960800000000000000
+      internalID: 7630444343939835002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_252
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7909cf037a4376d80800000000000000
+      internalID: -8257573499074473833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_253
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1725ba01b04a131e0800000000000000
+      internalID: -2219812773885685135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_254
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0b83e68ba349d70800000000000000
+      internalID: 9048922115091771604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_255
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13870ab968cb538d0800000000000000
+      internalID: -2867178301428828111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_256
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c07e774335db1950800000000000000
+      internalID: 6420960109966291139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_257
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5eff920a64595a0800000000000000
+      internalID: -6515223632208206393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_258
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824e0af059608f1d0800000000000000
+      internalID: -3316893888276274136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_259
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff9b776e7dfabae0800000000000000
+      internalID: -1532634003822370823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_260
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d2249f21cbec5d0800000000000000
+      internalID: -3040285908751209154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_261
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcad5c212f555890800000000000000
+      internalID: -7469959810841203500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_262
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a3f5751a0ca3ac0800000000000000
+      internalID: -3874572730210764219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_263
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab4e0c8a65f37770800000000000000
+      internalID: 8607493150800235428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_264
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcc539967fbbd730800000000000000
+      internalID: 4025021208083156190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_265
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c332ef227ee449570800000000000000
+      internalID: 8472483553622238012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_266
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed01d587ad3197b0800000000000000
+      internalID: -5219322703431791130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_267
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c83afcb39108dc20800000000000000
+      internalID: 3231334466680666308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_268
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3fc461ce2fa82c0800000000000000
+      internalID: -4428460187765115935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_269
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63917a2de2799510800000000000000
+      internalID: 1556401509178119019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_270
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeff335ac9ec09f0800000000000000
+      internalID: -500768403355599174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_271
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103eb43625b3754d0800000000000000
+      internalID: -3145980589655727359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_272
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dc15bc535e380d0800000000000000
+      internalID: -3421639272664281737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_273
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66bfd7ba2fec00f0800000000000000
+      internalID: -1149280838133762452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_274
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b34c28bfaa37660800000000000000
+      internalID: 7382432211397786369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_275
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2039c35de6985e0800000000000000
+      internalID: -1906871105091337543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_276
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512a0d23ba07ad950800000000000000
+      internalID: 6474611294892761621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_277
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8c16d2ed60fc370800000000000000
+      internalID: 8344896185854707872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_278
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65418c97b6b6d810800000000000000
+      internalID: 1789818801647338859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_279
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e8a4418dcb9deb0800000000000000
+      internalID: -4694513500317643124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_280
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bb8a52dbf044300800000000000000
+      internalID: 235330385585159039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: par3_tileable_640x360px_281
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2e1f07d8ab10660800000000000000
+      internalID: 7350361183493415632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
