@@ -5,23 +5,22 @@ public class PlayerMovement : MonoBehaviour
     public float moveSpeed;
     public float jumpForce;
 
-    public bool isJumping;
-    public bool isGrounded;
+    private bool isJumping;
+    private bool isGrounded;
 
-    public Transform groundCheckLeft;
-    public Transform groundCheckRight;
+    public Transform groundCheck;
+    public float groundCheckRadius;
+    public LayerMask collisionLayers;
+    
 
     public Rigidbody2D rb;
     public Animator animator;
     public SpriteRenderer spriteRenderer;
     private Vector3 velocity = Vector3.zero;
+    private float horizontalMovement;
 
-    void FixedUpdate()
-    {
 
-        isGrounded = Physics2D.OverlapArea(groundCheckLeft.position, groundCheckRight.position);
-
-        float horizontalMovement = Input.GetAxis("Horizontal") * moveSpeed * Time.deltaTime;
+void Update() {
 
         if(Input.GetButtonDown("Jump") && isGrounded == true){
             isJumping = true;
@@ -35,13 +34,19 @@ public class PlayerMovement : MonoBehaviour
             animator.SetBool("AnimJump", true);
         }
 
-
-        MovePlayer(horizontalMovement);
-
         Flip(rb.velocity.x);
 
         float characterVelocity = Mathf.Abs(rb.velocity.x);
         animator.SetFloat("Speedo", characterVelocity);
+}
+
+    void FixedUpdate()
+    {
+        horizontalMovement = Input.GetAxis("Horizontal") * moveSpeed * Time.deltaTime;
+
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, collisionLayers);
+
+        MovePlayer(horizontalMovement);
     }
 
     void MovePlayer(float _horizontalMovement) {
@@ -60,5 +65,10 @@ public class PlayerMovement : MonoBehaviour
         } else if(_velocity < -0.1f) {
             spriteRenderer.flipX = true;
         }
+    }
+
+    private void OnDrawGizmos() {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
     }
 }
