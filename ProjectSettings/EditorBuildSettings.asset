@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Stage_5.unity
     guid: a1be65746c29e3049bb068b2e0dedd56
+  - enabled: 1
+    path: Assets/Scenes/Aloy's stage.unity
+    guid: a5f67a64b7bf6574b8efbcdd9802b37f
+  - enabled: 1
+    path: Assets/Scenes/Stage_1.unity
+    guid: 3c1a78b82ab77454aaf52feab646c8ea
   m_configObjects: {}
