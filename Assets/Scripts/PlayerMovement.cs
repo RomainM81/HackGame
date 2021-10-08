@@ -49,6 +49,13 @@ void Update() {
             animator.SetBool("AnimJump", true);
         }
 
+        if(Input.GetKeyDown(KeyCode.V)) {
+            animator.SetBool("Attack", true);
+        }
+        if(Input.GetKeyUp(KeyCode.V)) {
+            animator.SetBool("Attack", false);
+        }
+
         Flip(rb.velocity.x);
 
         float characterVelocity = Mathf.Abs(rb.velocity.x);
