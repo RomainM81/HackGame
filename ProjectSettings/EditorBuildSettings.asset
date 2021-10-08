@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Stage2.unity
     guid: b10142207f5854322af67c31bce83992
+  - enabled: 1
+    path: Assets/Scenes/transylvania_stage.unity
+    guid: 1918a626dc553a74b89ccbbac11a3fbb
   m_configObjects: {}
