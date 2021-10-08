@@ -3765,6 +3765,7 @@ MonoBehaviour:
   waypoints:
   - {fileID: 2074182890}
   - {fileID: 1547374042}
+  damageOnCollision: 20
   graphics: {fileID: 193998963}
 --- !u!61 &193998962
 BoxCollider2D:
@@ -6303,6 +6304,7 @@ MonoBehaviour:
   waypoints:
   - {fileID: 1482234809}
   - {fileID: 276564131}
+  damageOnCollision: 20
   graphics: {fileID: 1028252978}
 --- !u!61 &1028252977
 BoxCollider2D:
@@ -6314,10 +6316,10 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.00088617206, y: -0.016757559}
+  m_Offset: {x: -0.009020381, y: -0.016757563}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -6328,7 +6330,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.27924794, y: 0.20733514}
+  m_Size: {x: 0.2629795, y: 0.20733514}
   m_EdgeRadius: 0
 --- !u!212 &1028252978
 SpriteRenderer:
@@ -44815,7 +44817,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0012370273, y: 0.11755857}
+  m_Offset: {x: 0.00023535267, y: 0.11755857}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -44826,7 +44828,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.23653285, y: 0.07243347}
+  m_Size: {x: 0.2345295, y: 0.07243347}
   m_EdgeRadius: 0
 --- !u!1 &2114814756
 GameObject:
@@ -44946,7 +44948,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 100
   currentHealth: 0
-  HealthBar: {fileID: 0}
+  invincibilityTimeAfterHit: 3
+  invincibilityFlashDelay: 0.15
+  isInvincible: 0
+  graphics: {fileID: 2119267955}
+  HealthBar: {fileID: 115823449}
 --- !u!70 &2119267951
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -45006,6 +45012,7 @@ MonoBehaviour:
   rb: {fileID: 2119267952}
   animator: {fileID: 2119267954}
   spriteRenderer: {fileID: 2119267955}
+  playerCollider: {fileID: 2119267951}
 --- !u!95 &2119267954
 Animator:
   serializedVersion: 3
